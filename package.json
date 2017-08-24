@@ -1,6 +1,6 @@
 {
   "name": "cookiex",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "HTTP cookie parser and serializer for javascript",
   "main": "index.js",
   "scripts": {
