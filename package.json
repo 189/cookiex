@@ -12,6 +12,7 @@
   },
   "keywords": ["cookie"],
   "author": "kv.wang87@gmail.com",
+  "email" : "kv.wang87@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/189/cookiex/issues"
